@@ -1,0 +1,58 @@
+[
+    [
+        {
+            "image": "icon_1",
+            "title": "美食"
+        },
+        {
+            "image": "icon_2",
+            "title": "电影"
+        },
+        {
+            "image": "icon_3",
+            "title": "酒店"
+        },
+        {
+            "image": "icon_4",
+            "title": "休闲娱乐"
+        },
+        {
+            "image": "icon_5",
+            "title": "外卖"
+        },
+        {
+            "image": "icon_6",
+            "title": "自助餐"
+        },
+        {
+            "image": "icon_7",
+            "title": "KTV"
+        },
+        {
+            "image": "icon_8",
+            "title": "火车票"
+        },
+        {
+            "image": "icon_9",
+            "title": "丽人"
+        },
+        {
+            "image": "icon_10",
+            "title": "周边游"
+        }
+    ],
+    [
+        {
+            "image": "icon_11",
+            "title": "甜点饮品"
+        },
+        {
+            "image": "icon_4",
+            "title": "足疗按摩"
+        },
+        {
+            "image": "icon_3",
+            "title": "美甲"
+        }
+    ]
+]

@@ -1,0 +1,57 @@
+{
+    "topData": {
+        "icon": "icon_7",
+        "title": "购物中心",
+        "shopNum": 5
+    },
+    "ads": [{
+        "subtitle": "23家优惠",
+        "skipType": "photoset",
+        "skipID": "00AO0001|2295995",
+        "tag": "photoset",
+        "title": "麦凯恩灵柩",
+        "imgsrc": "http://cms-bucket.nosdn.127.net/3dfd1faf09834848abbf7a4c8a824b3b20160804114238.jpeg",
+        "url": "00AO0001|2295995",
+        "detailUrl": "https://github.com/facebook/react-native"
+    }, {
+        "subtitle": "26家优惠",
+        "skipType": "photoset",
+        "skipID": "00AP0001|2295994",
+        "tag": "photoset",
+        "title": "福建泉州大",
+        "imgsrc": "http://cms-bucket.nosdn.127.net/2018/08/29/ddf11249652c41469ab9b9119a56c30c.png",
+        "url": "00AP0001|2295994",
+        "detailUrl": "https://www.baidu.com/"
+    }, {
+        "subtitle": "36家优惠",
+        "skipType": "photoset",
+        "skipID": "00AO0001|2295990",
+        "tag": "photoset",
+        "title": "180年废弃塔",
+        "imgsrc": "http://cms-bucket.nosdn.127.net/2018/08/31/e861551354b24f2181abe4a4e5410c46.png",
+        "url": "00AO0001|2295990",
+        "detailUrl": "https://www.baidu.com/"
+    }, {
+        "subtitle": "67家优惠",
+        "skipType": "photoset",
+        "skipID": "00AP0001|2295988",
+        "tag": "photoset",
+        "title": "双胞胎姐妹",
+        "imgsrc": "http://cms-bucket.nosdn.127.net/2018/08/31/6cfb2e346c384268988e1811f2ef0181.png",
+        "url": "00AP0001|2295988",
+        "detailUrl": "https://www.baidu.com/"
+    }, {
+        "subtitle": "87家优惠",
+        "skipType": "photoset",
+        "skipID": "00AP0001|2295984",
+        "tag": "photoset",
+        "title": "青岛强降雨",
+        "imgsrc": "http://cms-bucket.nosdn.127.net/2018/08/31/fe9a0350c54e4854b1b0d75cc199962d.png",
+        "url": "00AP0001|2295984",
+        "detailUrl": "https://www.baidu.com/"
+    }]
+}
+
+
+
+

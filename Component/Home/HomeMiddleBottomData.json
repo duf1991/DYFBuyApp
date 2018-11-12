@@ -1,0 +1,34 @@
+{
+    "topData": {
+        "title": "最高立减25",
+        "subtitle": "报名小杜哥，新学员专享",
+        "image": "icon_4",
+        "titlecolor": "red"
+    },
+    "bottomData": [
+        {
+            "title": "千万红包限时抢",
+            "subtitle": "5折起美食畅吃",
+            "image": "icon_3",
+            "titlecolor": "green"
+        },
+        {
+            "title": "踏青好去处",
+            "subtitle": "优惠游周边",
+            "image": "icon_5",
+            "titlecolor": "#3d85c6"
+        },
+        {
+            "title": "鲜花一折起",
+            "subtitle": "撩妹更easy",
+            "image": "icon_2",
+            "titlecolor": "#ff9900"
+        },
+        {
+            "title": "踏青季特惠",
+            "subtitle": "春游装备1元购",
+            "image": "icon_7",
+            "titlecolor": "#ffd966"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+[
+    {"icon":"account-balance-wallet", "title":"待付款"},
+    {"icon":"business-center", "title":"待使用"},
+    {"icon":"chat", "title":"待评价"},
+    {"icon":"confirmation-number", "title":"退款/售后"}
+]

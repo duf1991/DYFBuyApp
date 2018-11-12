@@ -1,0 +1,23 @@
+{
+    "leftData": {
+        "image1": "https://img.meituan.net/600.600/msmerchant/31ea02e7c0b8bbf388ba50caa8f6ef24120346.jpg",
+        "image2": "https://img.meituan.net/600.600/msmerchant/d42edddf3e9522f56affa6ee24cbc71a218216.jpg",
+        "title": "探路组碳烤鱼",
+        "price": 9.5,
+        "tips": "再减3元"
+    },
+    "rightData": [
+        {
+            "title": "天天特价",
+            "subtitle": "特惠不打烊",
+            "image": "http://p0.meituan.net/600.600/mogu/dab1eed913bd0e36d1d2b89118765d8548892.jpg",
+            "titlecolor": "green"
+        },
+        {
+            "title": "一元吃",
+            "subtitle": "一元吃美食",
+            "image": "https://img.meituan.net/600.600/msmerchant/663edf306b57eb6ab77e5352ce2f02a8120534.jpg",
+            "titlecolor": "red"
+        }
+    ]
+}
