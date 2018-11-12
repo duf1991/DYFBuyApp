@@ -33,10 +33,8 @@ XCode 9.0+
 
 ## 安装
 
-LPDSliderView 可以通过 [CocoaPods](http://cocoapods.org) 进行获取。只需要在你的 Podfile 中添加如下代码就能实现引入：
-
 ```
-pod "LPDSliderView"
+DYFBuyApp
 ```
 
 ## 使用
@@ -104,4 +102,4 @@ Du Yingfeng, yingfeng.du02@ele.me
 
 ## 协议
 
-LPDSliderView 基于 MIT 协议进行分发和使用，更多信息参见协议文件。
+DYFBuyApp 基于 MIT 协议进行分发和使用，更多信息参见协议文件。
