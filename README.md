@@ -21,11 +21,6 @@
 2. 利用 cd 命令切换到 iOS工程 目录下（即podfile上一级目录），执行 `pod install` 命令；利用cd 命令切换到 RN工程目录下（即package.json上一级目录），执行`npm install`命令
 3. 随后在RN工程目录下执行`react-native run-ios`或者 打开 `LPDSliderView.xcworkspace` 编译即可。
 
-或执行以下命令：
-
-```bash
-git clone git@github.com:duf1991/LPDSliderView.git; cd LPDSliderView/Example; pod install; open LPDSliderView.xcworkspace
-```
 
 ## 需求
 
