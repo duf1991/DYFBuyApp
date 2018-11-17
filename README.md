@@ -10,7 +10,7 @@
 
 ## 预览
 
-![RN电商app](https://i.makeagif.com/media/11-12-2018/jZsfKw.gif)
+![RN电商app](DYFBuyApp/resource/RN电商项目gif2.gif)
 
 上面是整个app的基本效果，大家简单感受一下～
 
