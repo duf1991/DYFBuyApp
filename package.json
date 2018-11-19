@@ -1,10 +1,30 @@
 {
 	"name": "DYFBuyApp",
 	"version": "0.0.1",
-	"private": true,
+	"description": "一个从0到1的电商app",
+	"main": "index.ios.js or index.andriod.js",
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
 		"test": "jest"
+	},
+	"keywords": [
+		"react-native",
+		"react-component",
+		"react-native-component",
+		"react",
+		"mobile",
+		"ios",
+		"android",
+		"buyApp"
+	],
+	"author": {
+		"name": "duyingfeng",
+		"email": "631416588@qq.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:duf1991/DYFBuyApp.git"
 	},
 	"dependencies": {
 		"react": "16.0.0-alpha.6",
