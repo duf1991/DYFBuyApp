@@ -1,5 +1,5 @@
 {
-	"name": "DYFBuyApp",
+	"name": "react-native-dyfbuyapp",
 	"version": "0.0.1",
 	"description": "一个从0到1的电商app",
 	"main": "index.ios.js or index.andriod.js",
