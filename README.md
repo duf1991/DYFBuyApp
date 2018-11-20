@@ -29,7 +29,7 @@ XCode 9.0+
 ## 安装
 
 ```
-DYFBuyApp
+npm install react-native-dyfbuyapp --save
 ```
 
 ## 使用
