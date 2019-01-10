@@ -39,7 +39,7 @@ npm install react-native-dyfbuyapp --save
 ## 使用
 
 ```
-大家可以根据自己的需要自行扩展即可～
+大家可以根据自己的业务需要自行扩展即可～
 
 主要结构如下
 var Main = React.createClass({
