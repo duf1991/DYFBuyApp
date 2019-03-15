@@ -15,7 +15,10 @@
 
 ## 预览
 
-![RN电商app](resource/RN电商项目gif2.gif)
+![RN电商app_1](resource/电商1.gif)
+![RN电商app_1](resource/电商2.gif)
+![RN电商app_1](resource/电商3.gif)
+![RN电商app_1](resource/电商4.gif)
 
 上面是整个app的基本效果，大家简单感受一下～
 
